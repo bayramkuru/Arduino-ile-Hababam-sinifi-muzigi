@@ -1,4 +1,4 @@
-# Arduino-ile-Hababam-sinifi muzigi
+# Arduino-ile-Hababam-sınıfı müziği
 
 
 Bunu çalabilmek için ben bir hoperlör kullandım.
